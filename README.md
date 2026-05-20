@@ -61,9 +61,9 @@ The project uses 4 datasets:
 
 > Add your dashboard screenshot inside the `screenshots/` folder and update the image path below.
 
-```md
+md
 ![Dashboard](dashboard.jpeg)
-```
+
 
 ---
 
